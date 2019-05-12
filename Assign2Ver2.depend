@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1556388023 source:c:\users\emmet\onedrive\documents\c\assign2ver2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"game_function.h"
+
+1556388197 c:\users\emmet\onedrive\documents\c\assign2ver2\game_function.h
+	<stdbool.h>
+	<string.h>
+
